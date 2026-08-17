@@ -199,7 +199,7 @@ export default function App() {
         <footer className="app-footer">
           <div className="footer-content">
             <p className="footer-left">
-              Crafted with 💖 in React + Vite • <strong>PulseFlow Studio</strong>
+              Crafted with 💖 in React + Vite • <strong>Thavee Store</strong>
             </p>
             <div className="footer-pills">
               <span className="footer-tag">⚡ 60 FPS Smooth</span>

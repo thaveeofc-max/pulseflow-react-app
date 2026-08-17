@@ -46,10 +46,10 @@ export default function Navbar({ currentTheme, setTheme, isAmbient, toggleAmbien
           </div>
           <div>
             <div className="brand-title">
-              Pulse<span>Flow</span>
-              <span className="version-pill">v2.5</span>
+              Thavee<span>Store</span>
+              <span className="version-pill">Official</span>
             </div>
-            <p className="brand-subtitle">Smart Focus &amp; Productivity Studio</p>
+            <p className="brand-subtitle">Premium Digital Hub &amp; Productivity Studio</p>
           </div>
         </div>
       </div>
